@@ -1,0 +1,1 @@
+open thispatcherinclude "Macintosh HD:/Users/admin/Desktop/NSoftLight/ArtNet.maxpat"include "Macintosh HD:/Users/admin/Desktop/NSoftLight/asciitable"include "Macintosh HD:/Users/admin/Desktop/NSoftLight/machine[0].maxpat"include "Macintosh HD:/Users/admin/Desktop/NSoftLight/MultiFx.maxpat"

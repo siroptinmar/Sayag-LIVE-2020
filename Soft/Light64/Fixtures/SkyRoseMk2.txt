@@ -1,0 +1,4 @@
+0, 0 Shutter 1;
+1, 1 GoboRotW1 9;
+2, 2 Pan 13;
+3, 3 SpeedPT 16;

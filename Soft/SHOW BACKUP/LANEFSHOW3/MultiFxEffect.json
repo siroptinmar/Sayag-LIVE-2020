@@ -1,0 +1,99 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Fx",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"AmpX" : [ 0.0 ],
+					"AmpY" : [ 0.0 ],
+					"Inv" : [ 0 ],
+					"NameText" : [ "fx1" ],
+					"Rapport" : [ 0 ],
+					"SinTri" : [ 0 ],
+					"XY/YX" : [ 1 ],
+					"dPhase" : [ 3 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"AmpX" : [ 1.0 ],
+					"AmpY" : [ 1.0 ],
+					"Inv" : [ 0 ],
+					"NameText" : [ "fx1" ],
+					"Rapport" : [ 1 ],
+					"SinTri" : [ 1 ],
+					"XY/YX" : [ 0 ],
+					"dPhase" : [ 3 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"AmpX" : [ 1.0 ],
+					"AmpY" : [ 0.0 ],
+					"Inv" : [ 1 ],
+					"NameText" : [ "pan" ],
+					"Rapport" : [ 0 ],
+					"SinTri" : [ 1 ],
+					"XY/YX" : [ 0 ],
+					"dPhase" : [ 3 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"AmpX" : [ 1.0 ],
+					"AmpY" : [ 1.0 ],
+					"Inv" : [ 0 ],
+					"NameText" : [ "circle" ],
+					"Rapport" : [ 0 ],
+					"SinTri" : [ 1 ],
+					"XY/YX" : [ 0 ],
+					"dPhase" : [ 3 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"AmpX" : [ 0.0 ],
+					"AmpY" : [ 1.0 ],
+					"Inv" : [ 0 ],
+					"NameText" : [ "tilt" ],
+					"Rapport" : [ 0 ],
+					"SinTri" : [ 2 ],
+					"XY/YX" : [ 0 ],
+					"dPhase" : [ 3 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"data" : 				{
+					"AmpX" : [ 1.0 ],
+					"AmpY" : [ 1.0 ],
+					"Inv" : [ 0 ],
+					"NameText" : [ "X3" ],
+					"Rapport" : [ 2 ],
+					"SinTri" : [ 1 ],
+					"XY/YX" : [ 1 ],
+					"dPhase" : [ 3 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
